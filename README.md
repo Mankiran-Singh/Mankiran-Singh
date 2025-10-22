@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mankiran, and I'm a Frontend & Full Stack Web Developer from India 🇮🇳 with 2 years of experience building scalable, user-focused web applications using Angular, React and Node.</h2>
+<h2 align="left">Hi 👋! My name is Mankiran, and I'm a Frontend & Full Stack Web Developer from India 🇮🇳 with 3 years of experience building scalable, user-focused web applications using Angular, React and Node.</h2>
 
 ###
 
